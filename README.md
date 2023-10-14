@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adii21-ux&label=Profile%20views&color=0e75b6&style=flat" alt="adii21-ux" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adii21-ux" alt="adii21-ux" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/adityabuilds" target="blank"><img src="https://img.shields.io/twitter/follow/adityabuilds?logo=twitter&style=for-the-badge" alt="adityabuilds" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adityabuilds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityabuilds" height="30" width="40" /></a>
